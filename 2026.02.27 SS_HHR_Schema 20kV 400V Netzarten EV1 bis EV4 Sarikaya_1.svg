@@ -1,0 +1,3957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2803"
+   height="1710"
+   overflow="hidden"
+   version="1.1"
+   id="svg407"
+   sodipodi:docname="2026.02.27 SS_HHR_Schema 20kV 400V Netzarten EV1 bis EV4 Sarikaya_1.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview407"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.46799707"
+     inkscape:cx="1144.2379"
+     inkscape:cy="825.85988"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g407" />
+  <defs
+     id="defs45">
+    <filter
+       id="fx0"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer1">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR1" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG1" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB1" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA1" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       id="fx1"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer2">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR2" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG2" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB2" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA2" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="fx2"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer3">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR3" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG3" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB3" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur3" />
+    </filter>
+    <filter
+       id="fx3"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer4">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR4" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG4" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB4" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA4" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       id="fx4"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer5">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR5" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG5" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB5" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA5" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur5" />
+    </filter>
+    <filter
+       id="fx5"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer6">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR6" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG6" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB6" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA6" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur6" />
+    </filter>
+    <filter
+       id="fx6"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer7">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR7" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG7" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB7" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA7" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur7" />
+    </filter>
+    <filter
+       id="fx7"
+       x="-96"
+       y="-72"
+       width="1152"
+       height="864.00006"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer8">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR8" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG8" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB8" />
+        <feFuncA
+           type="linear"
+           slope="0.380392"
+           intercept="0"
+           id="feFuncA8" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="1.39983 1.39983"
+         id="feGaussianBlur8" />
+    </filter>
+    <radialGradient
+       cx="966788"
+       cy="66675"
+       r="974173"
+       fx="966788"
+       fy="66675"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke8"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,887.5,440.5)">
+      <stop
+         offset="0"
+         stop-color="#95B3D7"
+         id="stop8" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop9" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop10" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop12" />
+    </radialGradient>
+    <radialGradient
+       cx="185738"
+       cy="66675"
+       r="203454"
+       fy="66675"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke9"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,903.5,440.5)">
+      <stop
+         offset="0"
+         stop-color="#4172AD"
+         id="stop13" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop14" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop15" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop16" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop17" />
+    </radialGradient>
+    <radialGradient
+       cx="185738"
+       cy="71437.5"
+       r="205175"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke10"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,904.5,481.5)">
+      <stop
+         offset="0"
+         stop-color="#4172AD"
+         id="stop18" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop19" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop20" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop21" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop22" />
+    </radialGradient>
+    <radialGradient
+       cx="185738"
+       cy="66675"
+       r="203454"
+       fy="66675"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke11"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,903.5,525.5)">
+      <stop
+         offset="0"
+         stop-color="#4172AD"
+         id="stop23" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop24" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop25" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop26" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop27" />
+    </radialGradient>
+    <radialGradient
+       cx="185738"
+       cy="66675"
+       r="203454"
+       fy="66675"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke12"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,903.5,564.5)">
+      <stop
+         offset="0"
+         stop-color="#4172AD"
+         id="stop28" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop29" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop30" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop31" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop32" />
+    </radialGradient>
+    <radialGradient
+       cx="185738"
+       cy="66675"
+       r="203454"
+       fy="66675"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="stroke13"
+       gradientTransform="matrix(0,1.04987e-4,-1.04987e-4,0,903.5,604.5)">
+      <stop
+         offset="0"
+         stop-color="#4172AD"
+         id="stop33" />
+      <stop
+         offset="0.23"
+         stop-color="#4172AD"
+         id="stop34" />
+      <stop
+         offset="0.69"
+         stop-color="#376092"
+         id="stop35" />
+      <stop
+         offset="0.97"
+         stop-color="#335A88"
+         id="stop36" />
+      <stop
+         offset="1"
+         stop-color="#335A88"
+         id="stop37" />
+    </radialGradient>
+    <clipPath
+       id="clip14">
+      <rect
+         x="1"
+         y="-1"
+         width="15"
+         height="77"
+         id="rect37" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <rect
+         x="5"
+         y="-1"
+         width="21"
+         height="125"
+         id="rect38" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <rect
+         x="3"
+         y="-1"
+         width="21"
+         height="123"
+         id="rect39" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <rect
+         x="5"
+         y="-1"
+         width="21"
+         height="125"
+         id="rect40" />
+    </clipPath>
+    <image
+       width="97"
+       height="49"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAVACoDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9SsSu1wN8ijcAm0LwNoORkc8k0pWTj55hzn+D8unSmyLmO6Vw+2Rto+UuMFAOg7df1qjJZF7iKUXd1GsYQGGON1jO09cY79MZxjrmuSUnHb87dTJuxoiN+MyyqBnJOzn9O1QR3UcixGO7efzkPlhNpJx1bp2yPboOpqi2myLpOo28TyXk86HabhSvPlKn3sdflz+P41Yls2ghuFKhI5kdG+zIfk5YqwQckkNyR3A4x0zU5vp+P9L/ACvqTzS7DdS0+31KCdbiFbqWNCUjuIEk25HYFec4pP8AhEdC/wCgJp3/AICR/wCFPW1/co0IlWOG3eJF5QnOOgPII28E+talONClUk5VIJvTfUFCMneSMi+0e8utQE8OpNaQgAmGOP7zdCWOeeOOnYVftY7mMzfaJ45wzkx7Itm1eynk5Pvx9KKK6I0Yxk5K935v8r2NFBJ3RYooorYsRlDqVYBlIwQRwaWiigD/2Q=="
+       preserveAspectRatio="none"
+       id="img18" />
+    <clipPath
+       id="clip19">
+      <rect
+         x="0"
+         y="0"
+         width="395968"
+         height="200025"
+         id="rect41" />
+    </clipPath>
+    <clipPath
+       id="clip20">
+      <rect
+         x="-1"
+         y="1"
+         width="883"
+         height="15"
+         id="rect42" />
+    </clipPath>
+    <clipPath
+       id="clip21">
+      <rect
+         x="1"
+         y="1"
+         width="15"
+         height="325"
+         id="rect43" />
+    </clipPath>
+    <clipPath
+       id="clip22">
+      <rect
+         x="-1"
+         y="1"
+         width="883"
+         height="15"
+         id="rect44" />
+    </clipPath>
+    <clipPath
+       id="clip23">
+      <rect
+         x="1"
+         y="1"
+         width="15"
+         height="325"
+         id="rect45" />
+    </clipPath>
+  </defs>
+  <g
+     id="g407"
+     transform="matrix(1.2688511,0,0,1.2457509,-1815.9072,891.70765)">
+    <rect
+       x="1437.8488"
+       y="-709.49664"
+       width="2202.7351"
+       height="1359.3582"
+       fill="#ffffff"
+       id="rect46"
+       style="stroke-width:2.08136"
+       sodipodi:insensitive="true" />
+    <rect
+       x="1886.2678"
+       y="-669.47949"
+       width="1391.1764"
+       height="115.85735"
+       fill="#ffffff"
+       id="rect47"
+       style="stroke-width:2.58309" />
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="55.1059px"
+       id="text47"
+       x="2448.1672"
+       y="-461.26794"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">LRZ</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="55.1059px"
+       id="text48"
+       x="2527.3833"
+       y="-461.26794"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">-</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="55.1059px"
+       id="text49"
+       x="2544.1733"
+       y="-461.26794"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">Stromversorgung Schema 20 KV … 400 V_SS_HHR</text>
+    <path
+       d="m 1643.4895,-160.29906 14.513,22.52781 h -7.2567 v 424.8103 h 7.2567 l -14.513,22.52783 -14.5131,-22.52783 h 7.2564 v -424.8103 h -7.2564 z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path49"
+       style="stroke-width:2.58309" />
+    <text
+       fill="#ff0000"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text50"
+       x="2017.6174"
+       y="-145.45213"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20kV</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text51"
+       x="2025.8816"
+       y="275.59244"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">0,4kV</text>
+    <path
+       d="m 1680.8087,-194.96294 61.6198,-0.73791"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path51"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1680.8087,-195.72245 0.086,-189.85545"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path52"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1565.7748,-378.27493 196.1215,-2.47525 -0.021,-2.14547 -196.1217,2.47529 z m -0.023,-4.29087 196.1217,-2.47526 -0.023,-4.29087 -196.1217,2.47525 z m -0.033,-6.43629 196.1217,-2.47528 -0.022,-2.14544 -196.1217,2.47529 z"
+       fill="#ff0000"
+       id="path53"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1653.856,-466.03343 3e-4,78.96484"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path54"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="34.4412px"
+       id="text54"
+       x="2103.2534"
+       y="-365.01526"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EVU 1(Nord)</text>
+    <path
+       d="m 1641.4161,-514.30733 12.4399,48.2739 12.4398,-48.2739 z"
+       stroke="#ff0000"
+       stroke-width="6.88826"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill-rule="evenodd"
+       id="path55" />
+    <path
+       d="m 2327.6745,-234.31872 59.5242,3.2e-4"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path56"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text56"
+       x="3023.4998"
+       y="-261.69141"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20kV Anlage 2026 Blue</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text57"
+       x="3215.5115"
+       y="-261.69141"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">-</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text58"
+       x="3221.969"
+       y="-261.69141"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">Lion</text>
+    <path
+       d="m 2209.497,-79.961642 489.8994,-3.099671"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path58"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text59"
+       x="2020.3715"
+       y="-323.6857"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J01</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text60"
+       x="2053.4631"
+       y="-282.35617"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J02</text>
+    <path
+       d="m 2432.3756,-123.28908 h 77.7485"
+       stroke="#ff0000"
+       stroke-width="5.16619"
+       stroke-linecap="square"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="6, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path60" />
+    <path
+       d="m 2495.611,-121.67994 0.3462,-48.2739"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path61" />
+    <path
+       d="m 2449.9985,-121.67994 0.3463,-48.2739"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path62" />
+    <path
+       d="m 2433.4122,-194.0908 c 0,-13.33003 6.9621,-24.13662 15.5498,-24.13662 8.5875,0 15.5495,10.80659 15.5495,24.13662 0,13.33004 -6.962,24.13696 -15.5495,24.13696 -8.5877,0 -15.5498,-10.80692 -15.5498,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path63" />
+    <path
+       d="m 2433.4122,-219.83655 c 0,-13.33068 6.9621,-24.13695 15.5498,-24.13695 8.5875,0 15.5495,10.80627 15.5495,24.13695 0,13.32971 -6.962,24.13663 -15.5495,24.13663 -8.5877,0 -15.5498,-10.80692 -15.5498,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path64" />
+    <path
+       d="m 2450.3448,-292.24773 -0.3463,48.27391"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path65" />
+    <path
+       d="m 2481.0979,-194.0908 c 0,-13.33003 6.9621,-24.13662 15.5498,-24.13662 8.5874,0 15.5494,10.80659 15.5494,24.13662 0,13.33004 -6.962,24.13696 -15.5494,24.13696 -8.5877,0 -15.5498,-10.80692 -15.5498,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path66" />
+    <path
+       d="m 2481.0979,-219.83655 c 0,-13.33068 6.9621,-24.13695 15.5498,-24.13695 8.5874,0 15.5494,10.80627 15.5494,24.13695 0,13.32971 -6.962,24.13663 -15.5494,24.13663 -8.5877,0 -15.5498,-10.80692 -15.5498,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path67" />
+    <path
+       d="m 2495.611,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path68" />
+    <path
+       d="m 2588.909,-121.67994 0.3462,-48.2739"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path69" />
+    <path
+       d="m 2543.2966,-121.67994 0.3462,-48.2739"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path70" />
+    <path
+       d="m 2574.3959,-194.0908 c 0,-13.33003 6.962,-24.13662 15.5497,-24.13662 8.5875,0 15.5495,10.80659 15.5495,24.13662 0,13.33004 -6.962,24.13696 -15.5495,24.13696 -8.5877,0 -15.5497,-10.80692 -15.5497,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path71" />
+    <path
+       d="m 2574.3959,-219.83655 c 0,-13.33068 6.962,-24.13695 15.5497,-24.13695 8.5875,0 15.5495,10.80627 15.5495,24.13695 0,13.32971 -6.962,24.13663 -15.5495,24.13663 -8.5877,0 -15.5497,-10.80692 -15.5497,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path72" />
+    <path
+       d="m 2588.909,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path73" />
+    <path
+       d="m 2526.7102,-194.0908 c 0,-13.33003 6.962,-24.13662 15.5497,-24.13662 8.5876,0 15.5495,10.80659 15.5495,24.13662 0,13.33004 -6.9619,24.13696 -15.5495,24.13696 -8.5877,0 -15.5497,-10.80692 -15.5497,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path74" />
+    <path
+       d="m 2526.7102,-219.83655 c 0,-13.33068 6.962,-24.13695 15.5497,-24.13695 8.5876,0 15.5495,10.80627 15.5495,24.13695 0,13.32971 -6.9619,24.13663 -15.5495,24.13663 -8.5877,0 -15.5497,-10.80692 -15.5497,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#93cddd"
+       fill-rule="evenodd"
+       id="path75" />
+    <path
+       d="m 2543.2966,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path76" />
+    <path
+       d="m 2387.7999,-292.24739 v 53.97117"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path77"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2370.1768,-300.29337 388.7416,3.1e-4 v 2.14563 l -388.7416,-3.4e-4 z m 0,4.2909 388.7416,3.3e-4 v 4.29122 l -388.7416,-3.1e-4 z m 0,6.43653 388.7416,3.1e-4 v 2.14562 l -388.7416,-3.2e-4 z"
+       fill="#ff0000"
+       id="path78"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2525.6735,-123.28908 h 77.7485"
+       stroke="#ff0000"
+       stroke-width="5.16619"
+       stroke-linecap="square"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="6, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path79" />
+    <path
+       d="m 2746.4787,-292.24739 v 42.41763"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path80"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2744.4056,-245.36573 576.7764,-1.82622"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path81"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2692.5732,-217.38906 3e-4,-71.64041"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path82"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3288.6437,-406.49595 155.4967,-3.5e-4 v -2.14549 l -155.4967,3.3e-4 z m 0,-4.291 155.4967,-3.5e-4 v -4.291 l -155.4967,3.1e-4 z m 0,-6.43652 155.4967,-3.5e-4 v -2.14548 l -155.4967,3.2e-4 z"
+       fill="#ff0000"
+       id="path83"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3422.3708,-475.68854 10e-5,60.53483"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path84"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3320.7796,-251.17661 0.3462,-160.14673"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path85"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="34.4412px"
+       id="text85"
+       x="4050.3154"
+       y="-412.41699"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EVU 2 (Süd)</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text86"
+       x="4098.0854"
+       y="-349.51666"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text87"
+       x="4123.4849"
+       y="-349.51666"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">kV</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text88"
+       x="4149.3159"
+       y="-349.51666"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">/ 10 MW</text>
+    <path
+       d="m 3409.931,-519.72978 12.4398,41.83739 12.4397,-41.83739 z"
+       stroke="#ff0000"
+       stroke-width="6.88826"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill-rule="evenodd"
+       id="path88" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text89"
+       x="4148.9292"
+       y="-300.43784"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J21</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text90"
+       x="4271.4756"
+       y="-341.7674"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J22</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text91"
+       x="2129.7666"
+       y="-341.7674"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text92"
+       x="2155.167"
+       y="-341.7674"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">kV</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text93"
+       x="2180.9976"
+       y="-341.7674"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">/ 10 MW</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text94"
+       x="3669.5654"
+       y="-259.10831"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text95"
+       x="3707.4517"
+       y="-259.10831"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">kV</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text96"
+       x="3746.1978"
+       y="-259.10831"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">Anlage 2005</text>
+    <path
+       d="m 2687.39,-161.90819 h 475.0673 v 2.14658 H 2687.39 Z m 0,4.28994 h 475.0673 v 4.29315 H 2687.39 Z m 0,6.43651 h 475.0673 v 2.14658 H 2687.39 Z"
+       fill="#ff0000"
+       id="path96"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2689.4634,17.506573 216.7125,-2.410399"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path97" />
+    <path
+       d="m 2771.3581,16.705225 0.3464,-48.273897"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path98"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2756.8452,-55.705618 c 0,-13.330032 6.9621,-24.136954 15.5496,-24.136954 8.5876,0 15.5497,10.806922 15.5497,24.136954 0,13.330032 -6.9621,24.136946 -15.5497,24.136946 -8.5875,0 -15.5496,-10.806914 -15.5496,-24.136946 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path99" />
+    <path
+       d="m 2756.8452,-78.233435 c 0,-13.330032 6.9621,-24.136955 15.5496,-24.136955 8.5876,0 15.5497,10.806923 15.5497,24.136955 0,13.330031 -6.9621,24.136943 -15.5497,24.136943 -8.5875,0 -15.5496,-10.806912 -15.5496,-24.136943 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path100" />
+    <path
+       d="m 2841.85,16.705225 0.3462,-48.273897"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path101"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2827.3369,-55.705618 c 0,-13.330032 6.9621,-24.136954 15.5499,-24.136954 8.5875,0 15.5495,10.806922 15.5495,24.136954 0,13.330032 -6.962,24.136946 -15.5495,24.136946 -8.5878,0 -15.5499,-10.806914 -15.5499,-24.136946 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path102" />
+    <path
+       d="m 2827.3369,-81.451698 c 0,-13.330032 6.9621,-24.136952 15.5499,-24.136952 8.5875,0 15.5495,10.80692 15.5495,24.136952 0,13.330032 -6.962,24.136954 -15.5495,24.136954 -8.5878,0 -15.5499,-10.806922 -15.5499,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path103" />
+    <path
+       d="m 2841.85,-153.86255 1e-4,48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path104"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2889.5357,16.705225 0.3462,-48.273897"
+       stroke="#000000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path105" />
+    <path
+       d="m 2872.9494,-55.705618 c 0,-13.330032 6.9621,-24.136954 15.5495,-24.136954 8.5877,0 15.5498,10.806922 15.5498,24.136954 0,13.330032 -6.9621,24.136946 -15.5498,24.136946 -8.5874,0 -15.5495,-10.806914 -15.5495,-24.136946 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path106" />
+    <path
+       d="m 2872.9494,-81.451698 c 0,-13.330032 6.9621,-24.136952 15.5495,-24.136952 8.5877,0 15.5498,10.80692 15.5498,24.136952 0,13.330032 -6.9621,24.136954 -15.5498,24.136954 -8.5874,0 -15.5495,-10.806922 -15.5495,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path107" />
+    <path
+       d="m 2889.5357,-153.86255 2e-4,48.2739"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="2.66667, 2"
+       fill="none"
+       fill-rule="evenodd"
+       id="path108" />
+    <path
+       d="M 3144.5502,-157.0808 V -2.0475748"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path109"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2771.3581,-150.64429 3e-4,48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path110"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2700.8664,-153.86255 -10e-5,68.714355"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path111"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text111"
+       x="3408.5925"
+       y="4.3673935"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">N13</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text112"
+       x="3494.9895"
+       y="1.7843039"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">N19</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text113"
+       x="3555.4238"
+       y="1.7843039"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">N25</text>
+    <path
+       d="m 2984.907,13.486966 0.3462,-48.273899"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path113"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2970.3939,-58.923881 c 0,-13.330031 6.9621,-24.136943 15.5496,-24.136943 8.5876,0 15.5496,10.806912 15.5496,24.136943 0,13.330034 -6.962,24.136948 -15.5496,24.136948 -8.5875,0 -15.5496,-10.806914 -15.5496,-24.136948 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path114" />
+    <path
+       d="m 2970.3939,-84.669961 c 0,-13.330032 6.9621,-24.136939 15.5496,-24.136939 8.5876,0 15.5496,10.806907 15.5496,24.136939 0,13.330032 -6.962,24.136954 -15.5496,24.136954 -8.5875,0 -15.5496,-10.806922 -15.5496,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path115" />
+    <path
+       d="m 2984.907,-157.0808 2e-4,48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path116"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3032.5925,13.486966 0.3463,-48.273899"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path117"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3016.0063,-58.923881 c 0,-13.330031 6.962,-24.136943 15.5497,-24.136943 8.5875,0 15.5495,10.806912 15.5495,24.136943 0,13.330034 -6.962,24.136948 -15.5495,24.136948 -8.5877,0 -15.5497,-10.806914 -15.5497,-24.136948 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path118" />
+    <path
+       d="m 3016.0063,-84.669961 c 0,-13.330032 6.962,-24.136939 15.5497,-24.136939 8.5875,0 15.5495,10.806907 15.5495,24.136939 0,13.330032 -6.962,24.136954 -15.5495,24.136954 -8.5877,0 -15.5497,-10.806922 -15.5497,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path119" />
+    <path
+       d="m 3032.5925,-157.0808 2e-4,48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path120"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text120"
+       x="3675.4055"
+       y="1.7843039"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">N30</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text121"
+       x="3733.4119"
+       y="1.7843039"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">N36</text>
+    <path
+       d="m 3187.0732,-161.90819 260.09,1.96957 v 2.14657 l -260.0878,-1.96956 z m -0.021,4.28994 260.0898,1.96957 -0.021,4.29316 -260.09,-1.96958 z m -0.022,6.43651 260.09,1.96958 v 2.14658 l -260.0886,-1.96958 z"
+       fill="#ff0000"
+       id="path121"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3198.4556,-150.64429 v 42.06266"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path122"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3387.1247,-1.613109 4e-4,-29.954985"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path123"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 3339.4393,-4.7991864 V -31.568672"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path124"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3370.5384,-55.705618 c 0,-13.330032 6.9623,-24.136954 15.5499,-24.136954 8.5874,0 15.5496,10.806922 15.5496,24.136954 0,13.330032 -6.9622,24.136946 -15.5496,24.136946 -8.5876,0 -15.5499,-10.806914 -15.5499,-24.136946 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#92d050"
+       fill-rule="evenodd"
+       id="path125" />
+    <path
+       d="m 3370.5384,-81.451698 c 0,-13.330032 6.9623,-24.136952 15.5499,-24.136952 8.5874,0 15.5496,10.80692 15.5496,24.136952 0,13.330032 -6.9622,24.136954 -15.5496,24.136954 -8.5876,0 -15.5499,-10.806922 -15.5499,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#92d050"
+       fill-rule="evenodd"
+       id="path126" />
+    <path
+       d="m 3387.1247,-153.86255 v 48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path127"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3324.9263,-55.705618 c 0,-13.330032 6.962,-24.136954 15.5495,-24.136954 8.5877,0 15.5497,10.806922 15.5497,24.136954 0,13.330032 -6.962,24.136946 -15.5497,24.136946 -8.5875,0 -15.5495,-10.806914 -15.5495,-24.136946 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#92d050"
+       fill-rule="evenodd"
+       id="path128" />
+    <path
+       d="m 3324.9263,-81.451698 c 0,-13.330032 6.962,-24.136952 15.5495,-24.136952 8.5877,0 15.5497,10.80692 15.5497,24.136952 0,13.330032 -6.962,24.136954 -15.5497,24.136954 -8.5875,0 -15.5495,-10.806922 -15.5495,-24.136954 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#92d050"
+       fill-rule="evenodd"
+       id="path129" />
+    <path
+       d="m 3339.4393,-153.86255 v 48.2739"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path130"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3399.5978,-5.8225935 h -70.5251"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path131"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3478.5465,-105.58865 -45.8097,3.2e-4"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path132"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3432.7372,-105.0512 0.3462,-48.81135"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path133"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3096.8646,-112.02517 100.9565,1.86337"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path134"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text134"
+       x="4244.9321"
+       y="-42.128296"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2x1.600kVA</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text135"
+       x="4271.3984"
+       y="-13.714274"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2300A</text>
+    <path
+       d="m 3368.4653,111.52803 3e-4,-117.3503025"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path135"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1910.9436,364.27729 V 523.39772"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path136"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1962.7757,364.27729 V 523.39772"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path137"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1935.823,364.27729 V 524.33102"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path138"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1772.0333,-197.30906 c 0,-13.33003 6.962,-24.13662 15.5495,-24.13662 8.5877,0 15.5496,10.80659 15.5496,24.13662 0,13.33003 -6.9619,24.13696 -15.5496,24.13696 -8.5875,0 -15.5495,-10.80693 -15.5495,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path139" />
+    <path
+       d="m 1772.0333,-219.83655 c 0,-13.33068 6.962,-24.13695 15.5495,-24.13695 8.5877,0 15.5496,10.80627 15.5496,24.13695 0,13.32971 -6.9619,24.13663 -15.5496,24.13663 -8.5875,0 -15.5495,-10.80692 -15.5495,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path140" />
+    <path
+       d="m 1786.8926,-292.24739 -0.3463,48.27389"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path141"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1821.7922,-197.30906 c 0,-13.33003 6.9621,-24.13662 15.5496,-24.13662 8.5876,0 15.5497,10.80659 15.5497,24.13662 0,13.33003 -6.9621,24.13696 -15.5497,24.13696 -8.5875,0 -15.5496,-10.80693 -15.5496,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path142" />
+    <path
+       d="m 1821.7922,-219.83655 c 0,-13.33068 6.9621,-24.13695 15.5496,-24.13695 8.5876,0 15.5497,10.80627 15.5497,24.13695 0,13.32971 -6.9621,24.13663 -15.5497,24.13663 -8.5875,0 -15.5496,-10.80692 -15.5496,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path143" />
+    <path
+       d="m 1836.3052,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path144"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1740.9339,-292.24739 v 96.01002"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path145"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1896.4306,-197.30906 c 0,-13.33003 6.9622,-24.13662 15.5496,-24.13662 8.5875,0 15.5497,10.80659 15.5497,24.13662 0,13.33003 -6.9622,24.13696 -15.5497,24.13696 -8.5874,0 -15.5496,-10.80693 -15.5496,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#d99694"
+       fill-rule="evenodd"
+       id="path146" />
+    <path
+       d="m 1896.4306,-219.83655 c 0,-13.33068 6.9622,-24.13695 15.5496,-24.13695 8.5875,0 15.5497,10.80627 15.5497,24.13695 0,13.32971 -6.9622,24.13663 -15.5497,24.13663 -8.5874,0 -15.5496,-10.80692 -15.5496,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#d99694"
+       fill-rule="evenodd"
+       id="path147" />
+    <path
+       d="m 1911.2898,-292.24739 -0.3462,48.27389"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path148"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1723.3221,-300.29337 617.8081,2.59488 v 2.14561 l -617.8077,-2.59489 z m 0,4.2909 617.8092,2.59489 v 4.29122 l -617.8083,-2.59487 z m -0.02,6.43653 617.808,2.59487 v 2.14562 l -617.8077,-2.59488 z"
+       fill="#ff0000"
+       id="path149"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2327.6745,-292.24739 v 57.7227"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path150"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2269.9686,-298.68424 -0.3463,168.95864"
+       stroke="#c0504d"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="10.3324, 7.74928"
+       fill="none"
+       fill-rule="evenodd"
+       id="path151"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text151"
+       x="2212.8726"
+       y="-173.8662"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T11</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text152"
+       x="2138.2988"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J03</text>
+    <path
+       d="M 1754.4102,10.596968 1870.745,8.6589162"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path152" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text153"
+       x="1960.2555"
+       y="275.59244"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EV1</text>
+    <path
+       d="M 1889.174,9.2871362 2052.2485,8.6583499"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path153" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text154"
+       x="5.9649897"
+       y="2213.1807"
+       style="stroke-width:2.58309">N202</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text155"
+       x="3.381896"
+       y="2279.2354"
+       style="stroke-width:2.58309">N208</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text156"
+       x="5.9649897"
+       y="2368.1348"
+       style="stroke-width:2.58309">N216</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text157"
+       x="3.381896"
+       y="2604.8555"
+       style="stroke-width:2.58309">N228</text>
+    <path
+       d="M 1910.9436,-173.1721 V 255.13322"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path157"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1786.9256,-173.1721 -0.3795,540.26215"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path158"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1837.089,-173.1721 -0.7847,427.52973"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path159"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text159"
+       x="-71.079445"
+       y="2212.3008"
+       style="stroke-width:2.58309">N201</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text160"
+       x="-72.258881"
+       y="2274.4023"
+       style="stroke-width:2.58309">N207</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text161"
+       x="-73.438324"
+       y="2369.4316"
+       style="stroke-width:2.58309">N215</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text162"
+       x="-66.361694"
+       y="2318.4106"
+       style="stroke-width:2.58309">N209</text>
+    <rect
+       x="1820.7555"
+       y="127.7352"
+       width="22.806171"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect162" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text163"
+       x="-182.60098"
+       y="2283.2185"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <path
+       d="m 1900.5769,367.49556 155.1092,0.36366"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path163"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text164"
+       x="2191.4563"
+       y="92.19265"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">11</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text165"
+       x="2252.6528"
+       y="92.19265"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">12</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text166"
+       x="2348.1882"
+       y="92.19265"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">13</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text167"
+       x="-275.59244"
+       y="2216.7244"
+       style="stroke-width:2.58309">N242</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text168"
+       x="-242.01219"
+       y="2287.052"
+       style="stroke-width:2.58309">N248</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text169"
+       x="-242.01219"
+       y="2385.1187"
+       style="stroke-width:2.58309">N264</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text170"
+       x="-273.00931"
+       y="2318.751"
+       style="stroke-width:2.58309">N250</text>
+    <path
+       d="m 2218.8268,8.6595758 h 109.7165"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path170" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text171"
+       x="16.297363"
+       y="2810.0149"
+       style="stroke-width:2.58309">N42</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text172"
+       x="16.297363"
+       y="2869.0081"
+       style="stroke-width:2.58309">N48</text>
+    <path
+       d="M 2250.9629,11.684741 V -12.259113"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path172"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 2298.6484,11.684741 V -12.259113"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path173"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2315.2348,114.80743 2e-4,-104.53969"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path174"
+       style="stroke-width:2.58309" />
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text176"
+       x="1966.8602"
+       y="329.83743"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">Stromschienen für HHR</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text177"
+       x="2038.3252"
+       y="355.66837"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">1600A</text>
+    <g
+       clip-path="url(#clip14)"
+       filter="url(#fx0)"
+       transform="translate(505,644)"
+       id="g215" />
+    <path
+       d="m 2683.2435,375.5412 224.2198,0.42481"
+       stroke="#0000ff"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path219" />
+    <path
+       d="m 2827.3369,280.60254 v 97.08201"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path220"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2827.928,19.923486 -0.5914,145.727954"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path221"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text221"
+       x="3499.6677"
+       y="128.35597"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text222"
+       x="-74.11097"
+       y="3515.3442"
+       style="stroke-width:2.58309">N18</text>
+    <path
+       d="m 2970.3939,280.60254 v 97.08201"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path222"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3030.5192,280.60254 v 97.08201"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path223"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2968.3207,16.705225 -7e-4,146.765215"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path224"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3032.5925,19.923486 -6e-4,145.904964"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path225"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text225"
+       x="3681.7112"
+       y="125.77289"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">4</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text226"
+       x="3755.3708"
+       y="123.18978"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">5</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text227"
+       x="-74.11097"
+       y="3694.2107"
+       style="stroke-width:2.58309">N29</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text228"
+       x="-74.11097"
+       y="3772.3213"
+       style="stroke-width:2.58309">N35</text>
+    <path
+       d="m 2932.038,15.096095 153.2389,1.44178"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path228" />
+    <path
+       d="m 2905.0852,18.398031 4e-4,-45.137706"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path229" />
+    <path
+       d="m 2932.038,18.398031 0.5955,-45.137706"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path230" />
+    <path
+       d="m 2932.0235,-26.741283 -26.9393,3.38e-4"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path231" />
+    <path
+       d="m 2770.3215,3.825749 0.063,25.746087 -2.0733,0.01248 -0.063,-25.7460792 z m 0.086,35.400852 0.061,25.746091 -2.0733,0.01248 -0.061,-25.746075 z m 0.084,35.400872 0.063,25.746077 -2.0733,0.0125 -0.063,-25.746076 z m 0.086,35.400857 0.061,25.74607 -2.0733,0.0125 -0.061,-25.74608 z m 0.084,35.40085 0.063,25.74608 -2.0734,0.0124 -0.063,-25.74609 z m 0.086,35.40086 0.063,25.74608 -2.0732,0.009 -0.063,-25.74284 z m 0.086,35.40086 0.061,25.74609 -2.0733,0.009 -0.061,-25.74609 z m 0.082,35.40086 0.063,25.74609 -2.0734,0.009 -0.063,-25.74609 z m 0.086,35.40086 0.059,25.74608 -2.0733,0.009 -0.061,-25.74607 z m 0.084,35.40086 0.063,25.74286 -2.0731,0.0124 -0.063,-25.74608 z m 0.086,35.39765 v 2.90608 l -2.0732,0.0124 v -2.90609 z m -1.0305,2.91252 8.2725,-8.62815 -8.2309,25.79434 -8.3532,-25.70102 z"
+       id="path232"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3070.9485,26.360011 v 25.746076 h -2.0734 V 26.360011 Z m 0,35.400857 v 25.746075 h -2.0734 V 61.760868 Z m 0,35.400856 V 122.9078 h -2.0734 V 97.161724 Z m 0,35.400856 v 25.74608 h -2.0734 v -25.74608 z m 0,35.40086 v 25.74607 h -2.0734 v -25.74607 z m 0,35.40085 v 25.74609 h -2.0734 v -25.74609 z m 0,35.40088 v 25.74607 h -2.0734 v -25.74607 z m 0,35.40085 v 25.74607 h -2.0734 v -25.74607 z m 0,35.40086 v 25.74607 h -2.0734 v -25.74607 z m 0,35.40085 v 16.78644 h -2.0734 v -16.78644 z m -1.0367,16.78323 8.2931,-8.57988 -8.2931,25.74607 -8.2932,-25.74607 z"
+       id="path233"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text233"
+       x="-236.84598"
+       y="3452.2371"
+       style="stroke-width:2.58309">3000A</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text234"
+       x="-236.84598"
+       y="3845.0015"
+       style="stroke-width:2.58309">3000A</text>
+    <path
+       d="M 1991.8019,367.49556 V 523.51679"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path234"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 2043.634,367.49556 V 523.82574"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path235"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 2016.6812,367.49556 V 523.9416"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path236"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1991.8019,-197.30906 c 0,-13.33003 6.962,-24.13662 15.5496,-24.13662 8.5875,0 15.5496,10.80659 15.5496,24.13662 0,13.33003 -6.9621,24.13696 -15.5496,24.13696 -8.5876,0 -15.5496,-10.80693 -15.5496,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#d99694"
+       fill-rule="evenodd"
+       id="path237" />
+    <path
+       d="m 1991.8019,-219.83655 c 0,-13.33068 6.962,-24.13695 15.5496,-24.13695 8.5875,0 15.5496,10.80627 15.5496,24.13695 0,13.32971 -6.9621,24.13663 -15.5496,24.13663 -8.5876,0 -15.5496,-10.80692 -15.5496,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#d99694"
+       fill-rule="evenodd"
+       id="path238" />
+    <path
+       d="m 2006.3149,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path239"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text239"
+       x="3.381896"
+       y="2493.6863"
+       style="stroke-width:2.58309">N222</text>
+    <path
+       d="m 2005.5415,-173.1721 -3.3741,303.91444"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path240"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text240"
+       x="-68.944786"
+       y="2492.1597"
+       style="stroke-width:2.58309">N221</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text241"
+       x="-73.662537"
+       y="2535.2795"
+       style="stroke-width:2.58309">N223</text>
+    <g
+       clip-path="url(#clip15)"
+       filter="url(#fx1)"
+       transform="matrix(2.0732884,0,0,3.2182599,2009.4248,-0.9952037)"
+       id="g242">
+      <g
+         id="g241">
+        <path
+           d="M 16,5.59961 16.0131,111.572 h -3 L 13,5.59998 Z m -1.4869,105.97239 4.4996,-3 -4.4989,9 -4.5011,-8.999 z"
+           id="path241" />
+      </g>
+    </g>
+    <path
+       d="m 2042.2511,10.268705 0.028,343.192015 h -5.5274 l -0.027,-343.192015 z m -2.7369,343.192015 8.2934,-8.5831 -8.2911,25.74931 -8.2952,-25.74608 z"
+       id="path242"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text242"
+       x="2466.6257"
+       y="94.775726"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">14</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text243"
+       x="-244.59526"
+       y="2496.6882"
+       style="stroke-width:2.58309">N270</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text244"
+       x="-273.00931"
+       y="2535.2744"
+       style="stroke-width:2.58309">N272</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text245"
+       x="-270.42621"
+       y="2350.999"
+       style="stroke-width:2.58309">2050kW / 3000A</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text246"
+       x="-280.75858"
+       y="3509.3416"
+       style="stroke-width:2.58309">N108</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text247"
+       x="-270.42621"
+       y="3475.7925"
+       style="stroke-width:2.58309">N106</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text248"
+       x="-280.75858"
+       y="3690.9038"
+       style="stroke-width:2.58309">N119</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text249"
+       x="-280.75858"
+       y="3767.7515"
+       style="stroke-width:2.58309">N125</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text250"
+       x="-278.17551"
+       y="3816.957"
+       style="stroke-width:2.58309">N127</text>
+    <path
+       d="m 2083.0265,-194.0908 c 0,-13.33003 6.9621,-24.13662 15.5496,-24.13662 8.5875,0 15.5497,10.80659 15.5497,24.13662 0,13.33004 -6.9622,24.13696 -15.5497,24.13696 -8.5875,0 -15.5496,-10.80692 -15.5496,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#bfbfbf"
+       fill-rule="evenodd"
+       id="path250" />
+    <path
+       d="m 2083.0265,-219.83655 c 0,-13.33068 6.9621,-24.13695 15.5496,-24.13695 8.5875,0 15.5497,10.80627 15.5497,24.13695 0,13.32971 -6.9622,24.13663 -15.5497,24.13663 -8.5875,0 -15.5496,-10.80692 -15.5496,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#bfbfbf"
+       fill-rule="evenodd"
+       id="path251" />
+    <path
+       d="m 2099.959,-292.24739 -0.3462,48.27389"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path252"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2134.8587,-194.0908 c 0,-13.33003 6.9621,-24.13662 15.5496,-24.13662 8.5877,0 15.5498,10.80659 15.5498,24.13662 0,13.33004 -6.9621,24.13696 -15.5498,24.13696 -8.5875,0 -15.5496,-10.80692 -15.5496,-24.13696 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#bfbfbf"
+       fill-rule="evenodd"
+       id="path253" />
+    <path
+       d="m 2134.8587,-219.83655 c 0,-13.33068 6.9621,-24.13695 15.5496,-24.13695 8.5877,0 15.5498,10.80627 15.5498,24.13695 0,13.32971 -6.9621,24.13663 -15.5498,24.13663 -8.5875,0 -15.5496,-10.80692 -15.5496,-24.13663 z"
+       stroke="#ff0000"
+       stroke-width="1.72206"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#bfbfbf"
+       fill-rule="evenodd"
+       id="path254" />
+    <path
+       d="m 2151.445,-292.24773 v 48.27391"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path255"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2213.5524,-295.46567 -1.981,213.411838"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path256"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2071.6235,11.877836 137.5905,-3.38e-4"
+       stroke="#000000"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path257" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text257"
+       x="3.381896"
+       y="2654.8994"
+       style="stroke-width:2.58309">N234</text>
+    <path
+       d="M 2097.9584,-169.95384 2097.54,129.13964"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path258"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2151.2398,-169.95384 -1.8678,304.74925"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path259"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text259"
+       x="-74.252258"
+       y="2610.4343"
+       style="stroke-width:2.58309">N227</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text260"
+       x="-74.841972"
+       y="2671.6953"
+       style="stroke-width:2.58309">N233</text>
+    <g
+       clip-path="url(#clip16)"
+       filter="url(#fx2)"
+       transform="matrix(2.0732884,0,0,3.2182599,2169.0681,2.2230558)"
+       id="g261">
+      <g
+         id="g260">
+        <path
+           d="m 15,5.59338 0.4475,104.64462 -3,0.013 L 12.0001,5.60621 Z m -1.0525,104.65062 4.4871,-3.019 -4.4615,9.019 -4.53841,-8.981 z"
+           id="path260" />
+      </g>
+    </g>
+    <path
+       d="m 2199.8212,13.467657 0.935,338.918173 -5.5296,0.0386 -0.933,-338.918167 z m -1.8309,338.937483 8.2704,-8.63782 -8.2227,25.80079 -8.3636,-25.68815 z"
+       id="path261"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text261"
+       x="-75.431694"
+       y="2726.6921"
+       style="stroke-width:2.58309">N235</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text262"
+       x="2582.9324"
+       y="94.775726"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">15</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       id="text263"
+       x="2647.5122"
+       y="94.775726"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">16</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text264"
+       x="-250.49245"
+       y="2617.4395"
+       style="stroke-width:2.58309">N282</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text265"
+       x="-273.00931"
+       y="2730.1096"
+       style="stroke-width:2.58309">N290</text>
+    <path
+       d="m 2076.8065,370.71381 h 145.9948"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path265"
+       style="stroke-width:2.58309" />
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text266"
+       x="-250.71667"
+       y="2680.2041"
+       style="stroke-width:2.58309">N288</text>
+    <path
+       d="M 1769.9599,364.27729 V 523.45887"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path266"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1798.9861,364.27729 V 524.44365"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path267"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1854.9648,364.27729 V 523.65196"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path268"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1830.0852,364.27729 V 524.63997"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path269"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 1699.4683,368.30656 179.2487,-0.81225"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path270"
+       style="stroke-width:2.58309" />
+    <rect
+       x="1750.2635"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#ffff00"
+       id="rect270"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text270"
+       x="-399.58099"
+       y="2195.0032"
+       style="stroke-width:2.58309">SS420 N241</text>
+    <rect
+       x="1779.2898"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#ffff00"
+       id="rect271"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 1779.014,498.79413 V 396.34725 h 16.5862 v 102.44688 z"
+       fill="#ffff00"
+       fill-rule="evenodd"
+       id="path271"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text271"
+       x="-399.58099"
+       y="2231.9595"
+       style="stroke-width:2.58309">SS417 N243</text>
+    <path
+       d="M 1873.6245,364.27729 V 523.65517"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path272"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text272"
+       x="-422.8288"
+       y="2328.0376"
+       style="stroke-width:2.58309">N451 Res. NSR1</text>
+    <rect
+       x="1889.1741"
+       y="398.069"
+       width="16.586306"
+       height="102.98431"
+       fill="#d99694"
+       id="rect272"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text273"
+       x="-402.16406"
+       y="2368.5508"
+       style="stroke-width:2.58309">SS411 N265</text>
+    <rect
+       x="1914.0535"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#d99694"
+       id="rect273"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text274"
+       x="-399.58099"
+       y="2400.6196"
+       style="stroke-width:2.58309">SS412 N263</text>
+    <rect
+       x="1941.0063"
+       y="394.85077"
+       width="16.586306"
+       height="106.20258"
+       fill="#d99694"
+       id="rect274"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text275"
+       x="-402.16406"
+       y="2433.5366"
+       style="stroke-width:2.58309">SS413 N261</text>
+    <rect
+       x="1970.032"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#d99694"
+       id="rect275"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text276"
+       x="-399.58099"
+       y="2468.7883"
+       style="stroke-width:2.58309">SS414 N268</text>
+    <rect
+       x="1994.9119"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#d99694"
+       id="rect276"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text277"
+       x="-399.58099"
+       y="2500.8574"
+       style="stroke-width:2.58309">SS415 N263</text>
+    <rect
+       x="2021.8647"
+       y="394.85077"
+       width="16.586306"
+       height="102.98431"
+       fill="#d99694"
+       id="rect277"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text278"
+       x="-406.0679"
+       y="2535.5835"
+       style="stroke-width:2.58309">SS416 N271</text>
+    <path
+       d="M 2095.4662,367.49556 V 524.45975"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path278"
+       style="stroke-width:2.58309" />
+    <path
+       d="M 2120.3457,367.49556 V 525.63763"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path279"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2197.0574,367.49556 v 157.389"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path280"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 2174.2512,367.49556 v 158.377"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path281"
+       style="stroke-width:2.58309" />
+    <rect
+       x="2075.77"
+       y="398.069"
+       width="16.586306"
+       height="102.98431"
+       fill="#bfbfbf"
+       id="rect281"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text281"
+       x="-402.16406"
+       y="2600.7405"
+       style="stroke-width:2.58309">SS423 N281</text>
+    <rect
+       x="2100.6497"
+       y="398.069"
+       width="16.586306"
+       height="102.98431"
+       fill="#bfbfbf"
+       id="rect282"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text282"
+       x="-402.16406"
+       y="2632.5017"
+       style="stroke-width:2.58309">SS424 N283</text>
+    <rect
+       x="2175.2883"
+       y="398.069"
+       width="18.659594"
+       height="102.98431"
+       fill="#bfbfbf"
+       id="rect283"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text283"
+       x="-402.16406"
+       y="2726.7898"
+       style="stroke-width:2.58309">SS422 N289</text>
+    <rect
+       x="2150.4082"
+       y="398.069"
+       width="18.659594"
+       height="102.98431"
+       fill="#bfbfbf"
+       id="rect284"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text284"
+       x="-402.16406"
+       y="2695.731"
+       style="stroke-width:2.58309">SS421 N286</text>
+    <path
+       d="m 2217.7902,367.49556 v 157.389"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path284"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text285"
+       x="-425.41193"
+       y="2755.0547"
+       style="stroke-width:2.58309">N451 Res. NSR1</text>
+    <path
+       d="m 2752.9764,377.15034 -0.2781,149.5078"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path285"
+       style="stroke-width:2.58309" />
+    <rect
+       x="2731.9656"
+       y="409.33292"
+       width="16.586306"
+       height="102.98431"
+       stroke="#0070c0"
+       stroke-miterlimit="8"
+       fill="#0070c0"
+       id="rect285"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text286"
+       x="-409.91333"
+       y="3417.6003"
+       style="stroke-width:2.58309">SS000 N102</text>
+    <path
+       d="m 2962.1007,377.15034 0.3463,150.4279"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path286"
+       style="stroke-width:2.58309" />
+    <rect
+       x="2939.2944"
+       y="412.55121"
+       width="18.659594"
+       height="102.98431"
+       stroke="#0070c0"
+       stroke-miterlimit="8"
+       fill="#0070c0"
+       id="rect286"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text287"
+       x="-412.49643"
+       y="3677.519"
+       style="stroke-width:2.58309">SS425 N118</text>
+    <path
+       d="M 3018.0796,377.15034 V 523.12738"
+       stroke="#0000ff"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path287"
+       style="stroke-width:2.58309" />
+    <rect
+       x="2995.2734"
+       y="412.55121"
+       width="16.586306"
+       height="102.98431"
+       stroke="#0070c0"
+       stroke-miterlimit="8"
+       fill="#0070c0"
+       id="rect287"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text288"
+       x="-412.49643"
+       y="3746.4543"
+       style="stroke-width:2.58309">SS426 N124</text>
+    <rect
+       x="2708.123"
+       y="130.95345"
+       width="29.026037"
+       height="196.31386"
+       stroke="#8eb4e3"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       stroke-dasharray="1.66667, 1.66667"
+       fill="#ffffff"
+       id="rect288" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="27.5531px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text289"
+       x="-242.01219"
+       y="3398.0952"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="2859.4729"
+       y="127.7352"
+       width="29.026037"
+       height="186.65909"
+       stroke="#8eb4e3"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       stroke-dasharray="1.66667, 1.66667"
+       fill="#ffffff"
+       id="rect289" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="27.5531px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text290"
+       x="-236.84598"
+       y="3586.3149"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <path
+       d="m 2905.0852,372.40663 4e-4,-45.13771"
+       stroke="#0000ff"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path290" />
+    <path
+       d="m 2934.1113,372.40663 0.5955,-45.13771"
+       stroke="#0000ff"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path291" />
+    <path
+       d="m 2934.0968,330.48556 -26.9392,3.5e-4"
+       stroke="#0000ff"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path292" />
+    <path
+       d="m 2932.038,375.5412 h 150.4586"
+       stroke="#0000ff"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path293" />
+    <path
+       d="m 2259.256,184.86253 2e-4,-171.376851"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path294"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text294"
+       x="-58.753674"
+       y="2807.9758"
+       style="stroke-width:2.58309">N44</text>
+    <path
+       d="m 2227.1202,182.44561 h 109.7161"
+       stroke="#92d050"
+       stroke-width="5.16619"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path295" />
+    <text
+       fill="#92d050"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text295"
+       x="2863.5312"
+       y="133.52216"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EV3</text>
+    <text
+       fill="#92d050"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text296"
+       x="-141.27145"
+       y="2840.8728"
+       style="stroke-width:2.58309">N368</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text297"
+       x="1943.085"
+       y="-148.03523"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EV1</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text298"
+       x="2196.323"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J04</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text299"
+       x="2255.7678"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J05</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text300"
+       x="2350.1355"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J06</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text301"
+       x="2466.5354"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J07</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text302"
+       x="2274.2341"
+       y="-173.8662"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T12</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text303"
+       x="2368.2227"
+       y="-173.8662"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T13</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text304"
+       x="2486.9341"
+       y="-176.44928"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T14</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text305"
+       x="2691.9231"
+       y="-290.10547"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T16</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text306"
+       x="2600.8149"
+       y="-173.8662"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T15</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text307"
+       x="3443.5237"
+       y="-62.793068"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T1</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text308"
+       x="3530.4143"
+       y="-62.793068"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T2</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text309"
+       x="3710.6086"
+       y="-65.376175"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T4</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text310"
+       x="3767.8318"
+       y="-65.376175"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T5</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text311"
+       x="4151.0234"
+       y="-62.793068"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T6</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text312"
+       x="4209.3652"
+       y="-62.793068"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">T7</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text313"
+       x="2584.105"
+       y="-212.61261"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J08</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text314"
+       x="2650.116"
+       y="-212.61261"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J09</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text315"
+       x="2724.3357"
+       y="-212.61261"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text316"
+       x="2796.9241"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J11</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text317"
+       x="2866.1614"
+       y="-212.61261"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J12</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text318"
+       x="106.7057"
+       y="2819.064"
+       style="stroke-width:2.58309">Reserve</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text319"
+       x="2911.2332"
+       y="-109.2888"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.6</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text320"
+       x="3493.8347"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.2</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text321"
+       x="3410.2205"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.1</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text322"
+       x="3553.9719"
+       y="-104.12258"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.3</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text323"
+       x="3675.6411"
+       y="-104.12258"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.4</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text324"
+       x="3731.6035"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.5</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text325"
+       x="3811.8835"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.7</text>
+    <path
+       d="m 3097.2109,-153.86255 -0.3463,168.958645"
+       stroke="#c0504d"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="10.3324, 7.74928"
+       fill="none"
+       fill-rule="evenodd"
+       id="path325"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text326"
+       x="-9.5335808"
+       y="3851.1545"
+       style="stroke-width:2.58309">Reserve</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text327"
+       x="3873.7595"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J10.8</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text328"
+       x="4027.2832"
+       y="-104.12258"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19.2</text>
+    <path
+       d="m 3270.5832,-157.0808 -1.6351,149.7774848"
+       stroke="#c0504d"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="10.3324, 7.74928"
+       fill="none"
+       fill-rule="evenodd"
+       id="path328"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text329"
+       x="8.5480833"
+       y="4064.658"
+       style="stroke-width:2.58309">Reserve</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text330"
+       x="4117.123"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19.6</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text331"
+       x="4175.3428"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19.7</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text332"
+       x="3941.439"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19.1</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text333"
+       x="4233.7622"
+       y="-101.53949"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19.3</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text334"
+       x="3275.2949"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J18</text>
+    <path
+       d="m 2655.6004,-295.46598 -0.3463,168.95865"
+       stroke="#c0504d"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="10.3324, 7.74928"
+       fill="none"
+       fill-rule="evenodd"
+       id="path334"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text335"
+       x="104.12258"
+       y="3299.0256"
+       style="stroke-width:2.58309">Reserve</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text336"
+       x="3325.1643"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J19</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text337"
+       x="3197.9751"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J17</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text338"
+       x="3138.4915"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J16</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text339"
+       x="3081.5474"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J15</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text340"
+       x="3022.4124"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J14</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text341"
+       x="2943.1833"
+       y="-212.61261"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J13</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text342"
+       x="3389.9563"
+       y="-215.19571"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">J20</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text343"
+       x="4202.8711"
+       y="-284.93927"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">NA2XS(F)2Y</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text344"
+       x="4202.8711"
+       y="-264.27454"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2 X 3X1X3000mm²</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text345"
+       x="1953.5797"
+       y="-282.35617"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">NA2XS(F)2Y</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text346"
+       x="1953.5797"
+       y="-261.69141"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2 X 3X1X3000mm²</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text347"
+       x="3362.0764"
+       y="-135.11974"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">4x1.600kVA / 2300A</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text348"
+       x="2387.8184"
+       y="-256.52521"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">20 kV Anlage 2011</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text349"
+       x="-74.11097"
+       y="3454.4893"
+       style="stroke-width:2.58309">N17</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text350"
+       x="-74.11097"
+       y="3813.9893"
+       style="stroke-width:2.58309">N37</text>
+    <path
+       d="M 3370.86,122.47656 2315.2348,116.47129"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-dasharray="10.3324, 7.74928"
+       fill="none"
+       fill-rule="evenodd"
+       id="path351"
+       style="stroke-width:2.58309" />
+    <g
+       clip-path="url(#clip17)"
+       filter="url(#fx3)"
+       transform="matrix(2.0732884,0,0,3.2182599,1837.3418,-0.9952037)"
+       id="g353">
+      <g
+         id="g352">
+        <path
+           d="M 1.5,-0.00262343 1.68446,105.47 -1.31553,105.475 -1.5,0.00262343 Z M 0.184467,105.472 4.67921,102.465 0.194961,111.472 -4.32077,102.48 Z"
+           transform="matrix(-1,0,0,1,14.695,5.59979)"
+           id="path352" />
+      </g>
+    </g>
+    <path
+       d="m 1865.0442,10.2612 -0.3848,341.58396 5.5289,0.0124 0.3848,-341.581813 z m 2.3795,341.5904 -8.2833,-8.60564 8.2642,25.76861 8.3219,-25.72356 z"
+       id="path353"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       id="text354"
+       x="2159.272"
+       y="-253.94212"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">6x1.600kVA / 2300A</text>
+    <g
+       transform="matrix(2.1766832e-4,0,0,3.3787545e-4,2256.146,227.50124)"
+       id="g355">
+      <g
+         clip-path="url(#clip19)"
+         transform="scale(1.01031,1)"
+         id="g354">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img18"
+           transform="scale(4082.14)"
+           id="use354" />
+      </g>
+    </g>
+    <text
+       fill="#00b050"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text355"
+       x="2824.085"
+       y="257.51071"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">1650kVA</text>
+    <text
+       fill="#00b050"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text356"
+       x="2834.624"
+       y="283.34171"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">2351A</text>
+    <path
+       d="m 2290.3553,184.05474 v 50.78414"
+       stroke="#92d050"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path356"
+       style="stroke-width:2.58309" />
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text357"
+       x="3907.7551"
+       y="154.18692"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">3x1.100kVA</text>
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="20.6648px"
+       id="text358"
+       x="3884.9392"
+       y="180.01787"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">1067kW/1588A</text>
+    <path
+       d="m 2692.5732,-218.22742 785.0776,2.43268"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path359"
+       style="stroke-width:2.58309" />
+    <path
+       d="m 3476.2763,-215.00949 v 109.80382"
+       stroke="#ff0000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path360"
+       style="stroke-width:2.58309" />
+    <rect
+       x="1899.5404"
+       y="127.7352"
+       width="22.806171"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect360" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text360"
+       x="-182.60098"
+       y="2381.5515"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="1990.7653"
+       y="127.7352"
+       width="22.806171"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect361" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text361"
+       x="-182.60098"
+       y="2495.2083"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="2084.0632"
+       y="127.7352"
+       width="24.879457"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect362" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text362"
+       x="-182.60098"
+       y="2613.7563"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="2137.9688"
+       y="127.7352"
+       width="20.732885"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect363" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text363"
+       x="-182.60098"
+       y="2677.9956"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text364"
+       x="-267.84314"
+       y="2567.9785"
+       style="stroke-width:2.58309">2050kW / 3000A</text>
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="24.109px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text365"
+       x="-270.42621"
+       y="2763.0051"
+       style="stroke-width:2.58309">2050kW / 3000A</text>
+    <rect
+       x="1833.1953"
+       y="394.85077"
+       width="16.586306"
+       height="106.20258"
+       fill="#ffff00"
+       id="rect365"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text366"
+       x="-402.16406"
+       y="2299.115"
+       style="stroke-width:2.58309">SS419 N249</text>
+    <rect
+       x="1808.3158"
+       y="398.069"
+       width="16.586306"
+       height="102.98431"
+       fill="#ffff00"
+       id="rect366"
+       style="stroke-width:2.58309" />
+    <text
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="17.2206px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text367"
+       x="-402.16406"
+       y="2268.0298"
+       style="stroke-width:2.58309">SS418 N246</text>
+    <rect
+       x="2813.8608"
+       y="166.35432"
+       width="22.806171"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect367" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text368"
+       x="-213.59811"
+       y="3521.2571"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="2956.9175"
+       y="166.35432"
+       width="20.732885"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect368" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text369"
+       x="-213.59811"
+       y="3697.9075"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <rect
+       x="3019.1162"
+       y="163.13605"
+       width="22.806171"
+       height="125.51213"
+       stroke="#0000ff"
+       stroke-width="4.30517"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect369" />
+    <text
+       fill="#0000ff"
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13.7765px"
+       transform="matrix(0,-1.2458929,0.8026372,0,0,0)"
+       id="text370"
+       x="-211.015"
+       y="3776.033"
+       style="stroke-width:2.58309">dyn. USV</text>
+    <g
+       clip-path="url(#clip20)"
+       filter="url(#fx4)"
+       transform="translate(34,678)"
+       id="g375" />
+    <g
+       clip-path="url(#clip21)"
+       filter="url(#fx5)"
+       transform="translate(31,366)"
+       id="g377" />
+    <g
+       clip-path="url(#clip22)"
+       filter="url(#fx6)"
+       transform="translate(36,366)"
+       id="g381">
+      <g
+         id="g380" />
+    </g>
+    <g
+       clip-path="url(#clip23)"
+       filter="url(#fx7)"
+       transform="translate(904,365)"
+       id="g383" />
+    <text
+       fill="#0000ff"
+       font-family="Calibri, Calibri_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="30.9971px"
+       id="text407"
+       x="3259.2957"
+       y="301.42337"
+       transform="scale(0.8026372,1.2458929)"
+       style="stroke-width:2.58309">EV2</text>
+    <path
+       d="m 2663.5472,449.56117 h 2.5917 V 309.56688 h 5.1831 v 139.99429 h 2.5917 l -5.1832,8.04567 z"
+       stroke="#0070c0"
+       stroke-width="6.88826"
+       stroke-miterlimit="8"
+       fill="#0070c0"
+       fill-rule="evenodd"
+       id="path407" />
+  </g>
+</svg>
