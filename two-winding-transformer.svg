@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 320" width="200" height="320">
+  <!-- Top lead line -->
+  <line x1="100" y1="0" x2="100" y2="60" stroke="black" stroke-width="2.5"/>
+  <!-- Top circle (primary winding) -->
+  <circle cx="100" cy="120" r="60" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Bottom circle (secondary winding) -->
+  <circle cx="100" cy="200" r="60" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Bottom lead line -->
+  <line x1="100" y1="260" x2="100" y2="320" stroke="black" stroke-width="2.5"/>
+</svg>
