@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="currentColor">
+  <!-- Radiating lines -->
+  <rect x="19" y="2" width="2.5" height="5" rx="1" transform="rotate(-15 20 4.5)"/>
+  <rect x="10" y="9" width="2.5" height="5" rx="1" transform="rotate(-40 11 11.5)"/>
+  <rect x="4" y="20" width="2.5" height="5" rx="1" transform="rotate(-70 5 22.5)"/>
+  <rect x="3" y="33" width="2.5" height="5" rx="1" transform="rotate(-100 4 35.5)"/>
+  <rect x="7" y="43" width="2.5" height="5" rx="1" transform="rotate(-130 8 45.5)"/>
+  <rect x="14" y="50" width="2.5" height="5" rx="1" transform="rotate(-155 15 52.5)"/>
+  <rect x="24" y="54" width="2.5" height="5" rx="1" transform="rotate(-180 25 56.5)"/>
+  <rect x="34" y="53" width="2.5" height="5" rx="1" transform="rotate(165 35 55.5)"/>
+  <rect x="28" y="1" width="2.5" height="5" rx="1"/>
+  <!-- Circle open on right -->
+  <path d="M42,16 A21,21 0 1,0 40,50" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Lightning bolt -->
+  <path d="M30,13 L21,32 L28,32 L24,51 L39,28 L32,28 Z"/>
+  <!-- Plug prongs -->
+  <rect x="42" y="3" width="3" height="12" rx="1.5"/>
+  <rect x="50" y="3" width="3" height="12" rx="1.5"/>
+  <!-- Plug body -->
+  <path d="M37,14 Q37,13 38,13 L57,13 Q58,13 58,14 L58,36 Q58,43 52,43 L43,43 Q37,43 37,36 Z" fill="none" stroke="currentColor" stroke-width="3"/>
+  <!-- Plug neck -->
+  <rect x="44" y="43" width="7" height="5" rx="1.5"/>
+  <!-- Cord -->
+  <rect x="46" y="48" width="3" height="12" rx="1.5"/>
+</svg>
